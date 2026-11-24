@@ -1,0 +1,1 @@
+{"description":"QQ 桥接中转站：只传消息 ID，不传消息内容","engines":{"node":">=18"},"main":"server.js","name":"qq-bridge-relay","scripts":{"start":"node server.js"},"version":"1.0.0"}
